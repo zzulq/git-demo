@@ -13,5 +13,7 @@ public class GitTest {
         System.out.println("hello hangzhou");
 
         System.out.println("hello hongkong");
+
+        System.out.println("this is beijing");
     }
 }
