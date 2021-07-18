@@ -5,5 +5,7 @@ public class GitTest {
         System.out.println("hello git");
 
         System.out.println("hello beijing");
+
+        System.out.println("hello shanghai");
     }
 }
